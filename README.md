@@ -14,4 +14,4 @@ I'm student of Mechanical Engineering and also become one of Information technol
 
 <details>
  <summary><h3>👨‍💻 Yusralien's Coding Journey</h3></summary>
- I started my coding journey as an illegal hacking community's student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS and android development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. Inshallah 🤲🏽
+ I started my coding journey as an illegal hacking community's student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS and android development with a dream to build my own app. Inshallah 🤲🏽
