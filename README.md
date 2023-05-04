@@ -8,4 +8,4 @@ I'm student of Mechanical Engineering and also become one of Information technol
 
 ### 💻Language and tools
 
-img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADart-logo-icon.svg&psig=AOvVaw3aVRSMD4fV-LYPwxQRz3Cz&ust=1683266098125000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjosYD92v4CFQAAAAAdAAAAABAQ" />
+[![My Skills](https://skillicons.dev/icons?i=dart,py,css,linux,vim,visualstudio,swift,c)](https://skillicons.dev)
