@@ -2,7 +2,7 @@
 
 **`Cybersecurity and Apps Development Enthusiast (Pentester/Developer/Flutter Developer)`**
 
-I'm student of Mechanical Engineering and also become one of Information technology Enthusiaster in certain field .I am building my version of the digital world one step at a time. Perhaps, I can develop my skills as a freelancer and maybe someday i would become a developer as i dreamed before. 
+I am a student of Mechanical Engineering, and I have also become an Information Technology enthusiast in a specific field. I am building my version of the digital world one step at a time. Perhaps, I can develop my skills as a freelancer, and maybe someday, I will become a developer as I have dreamed before.
 
 ---
 
